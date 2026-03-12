@@ -1,0 +1,34 @@
+{
+    "id": "MjrBOJEjREOjJtRutc3L8Q",
+    "results": [
+        {
+            "sectionName": "quickLinks",
+            "sectionResults": [
+                {
+                    "label": "Find a Store",
+                    "url": "https://www.apple.com/uk/retail/"
+                },
+                {
+                    "label": "Apple Vision Pro",
+                    "url": "https://www.apple.com/uk/apple-vision-pro/"
+                },
+                {
+                    "label": "AirPods",
+                    "url": "https://www.apple.com/uk/airpods/"
+                },
+                {
+                    "label": "Apple Intelligence",
+                    "url": "https://www.apple.com/uk/apple-intelligence/"
+                },
+                {
+                    "label": "Apple Trade In",
+                    "url": "https://www.apple.com/uk/shop/goto/trade_in"
+                }
+            ]
+        },
+        {
+            "sectionName": "suggestions",
+            "sectionResults": []
+        }
+    ]
+}
