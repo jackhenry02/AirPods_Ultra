@@ -1,0 +1,48 @@
+{
+    "items": {
+        "AIRPODSPRO_3G_MAIN": {
+            "type": "WUIP",
+            "name": "AirPods Pro 3",
+            "baseName": "AirPods Pro 3",
+            "id": "AIRPODSPRO_3G_MAIN",
+            "price": {
+                "value": 219,
+                "display": {
+                    "smart": "£219",
+                    "actual": "£219",
+                    "from": "From £219",
+                    "monthlyFrom": "From £54.75/mo. or £219",
+                    "monthlyPrice": "From £54.75 for 4 mo.",
+                    "perMonth": "£54.75/mo.",
+                    "perMonthSmart": "£54.75",
+                    "perMonthActual": "£54.75",
+                    "perMonthValue": "54.75",
+                    "months": "4",
+                    "apr": "0 %"
+                }
+            }
+        },
+        "AIRPODS_4_USBC_ANC": {
+            "type": "WUIP",
+            "name": "AirPods 4 with Active Noise Cancellation",
+            "baseName": "AirPods 4",
+            "id": "AIRPODS_4_USBC_ANC",
+            "price": {
+                "value": 169,
+                "display": {
+                    "smart": "£169",
+                    "actual": "£169",
+                    "from": "From £169",
+                    "monthlyFrom": "From £42.25/mo. or £169",
+                    "monthlyPrice": "From £42.25 for 4 mo.",
+                    "perMonth": "£42.25/mo.",
+                    "perMonthSmart": "£42.25",
+                    "perMonthActual": "£42.25",
+                    "perMonthValue": "42.25",
+                    "months": "4",
+                    "apr": "0 %"
+                }
+            }
+        }
+    }
+}
